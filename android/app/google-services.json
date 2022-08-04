@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621780696965",
+    "project_id": "charya-todoapp-9b513",
+    "storage_bucket": "charya-todoapp-9b513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621780696965:android:a65278ae3725e64d188eec",
+        "android_client_info": {
+          "package_name": "com.shalitha.charyatodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621780696965-4nriorphcv27fq0p2lmq6imbp1qoga5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFh7rwHDsNCRN48Msw0sVOZdb-kAn4XHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621780696965-4nriorphcv27fq0p2lmq6imbp1qoga5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
